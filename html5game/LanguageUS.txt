@@ -864,10 +864,10 @@ ui_ChooseFace	Choose Face
 msg_ChooseFace	Choose your own profile image!
 ui_Uniforms	Uniforms
 btn_Uniforms	Change#Uniforms
-msg_TickerTwitter	Follow @retro_bowl on Twitter
+msg_TickerTwitter	Follow @Storm_Bois on Youtube
 msg_TickerReddit	Join us on Reddit! r/RetroBowl
 msg_NextGame	Next game: $teamname1 at $teamname2
-ui_VisitKong	Visit Kongregate.com
+ui_VisitKong	Visit StormyGames.com
 ui_min1	1 Min
 ui_min2	2 Mins
 ui_min3	3 Mins
