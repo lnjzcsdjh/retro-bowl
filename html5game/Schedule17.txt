@@ -6,7 +6,7 @@ year	week	away_team	home_team	away_score	home_score
 1	1	8	7	-1	-1
 1	1	10	5	-1	-1
 1	1	11	0	-1	-1
-1	1	14	12	-1	-1
+1	1	14	1000	-1	-1
 1	1	16	31	-1	-1
 1	1	18	28	-1	-1
 1	1	20	15	-1	-1
